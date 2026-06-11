@@ -117,51 +117,21 @@ flutter run
 
 ### Pantalla Principal
 
-Agregar captura aquí:
-
-```text
-assets/screenshots/home.png
-```
-
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/3a3b40d3-0f56-49f9-be66-106cae18f4de" />
-
 
 ---
 
 ### Infinite Scroll
 
-Agregar captura aquí:
-
-```text
-assets/screenshots/infinite_scroll.png
-```
-
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/303d6d53-2a57-4846-9c0c-5bac2f270a79" />
-
-
 
 ---
 
 ### Búsqueda de Pokémon
 
-Agregar captura aquí:
-
-```text
-assets/screenshots/search_pokemon.png
-```
-
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/9949b05e-98c8-4a31-8a11-91b5b7c4533a" />
 
-
----
-
 ### Información Detallada
-
-Agregar captura aquí:
-
-```text
-assets/screenshots/details.png
-```
 
 <img width="717" height="1600" alt="image" src="https://github.com/user-attachments/assets/f1af8f83-a731-4d6b-ad26-7725e4214de2" />
 
